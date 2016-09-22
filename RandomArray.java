@@ -18,7 +18,7 @@ class Main {
         int maxValue = 99;
     	int arrayLength = 10;
     	int[] rngArray = new int[arrayLength];
-   		int randomNumber;
+   	    int randomNumber;
         Random rng = new Random();
         
         	//populate array 
@@ -29,7 +29,7 @@ class Main {
     	}
     
     		 //sorting array
-  		Arrays.sort(rngArray);
+    	Arrays.sort(rngArray);
   		
   			//output
    		System.out.println("Max: " + rngArray[arrayLength-1]);
