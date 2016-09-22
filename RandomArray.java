@@ -33,6 +33,6 @@ class Main {
   		
   			//output
    		System.out.println("Max: " + rngArray[arrayLength-1]);
-   		System.out.println("Min " + rngArray[0]);
+   		System.out.println("Min: " + rngArray[0]);
     }
 }
